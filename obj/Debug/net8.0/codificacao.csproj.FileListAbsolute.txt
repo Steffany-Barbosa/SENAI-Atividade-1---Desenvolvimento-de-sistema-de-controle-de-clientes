@@ -1,0 +1,14 @@
+C:\Users\Steffany - PC\Desktop\Codificacao\bin\Debug\net8.0\codificacao.exe
+C:\Users\Steffany - PC\Desktop\Codificacao\bin\Debug\net8.0\codificacao.deps.json
+C:\Users\Steffany - PC\Desktop\Codificacao\bin\Debug\net8.0\codificacao.runtimeconfig.json
+C:\Users\Steffany - PC\Desktop\Codificacao\bin\Debug\net8.0\codificacao.dll
+C:\Users\Steffany - PC\Desktop\Codificacao\bin\Debug\net8.0\codificacao.pdb
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.AssemblyInfoInputs.cache
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.AssemblyInfo.cs
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.csproj.CoreCompileInputs.cache
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.dll
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\refint\codificacao.dll
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.pdb
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\codificacao.genruntimeconfig.cache
+C:\Users\Steffany - PC\Desktop\Codificacao\obj\Debug\net8.0\ref\codificacao.dll
